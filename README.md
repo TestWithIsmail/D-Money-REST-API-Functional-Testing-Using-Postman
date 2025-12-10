@@ -4,7 +4,7 @@
 
 This project is an end-to-end API Testing and Integration Testing solution for the Dmoney Digital Wallet System using Postman and Newman.
 The system simulates a complete financial workflow, including user creation, cash-in, send money, withdraw, and payment operations.
-The test suite covers 1 Admin, 1 Agent, 2 Customer, and 1 Merchant features and validates business rules, including minimum/maximum transaction limits, balance checks, and user access controls.
+The test suite covers **1 Admin, 1 Agent, 2 Customer, and 1 Merchant** features and validates business rules, including minimum/maximum transaction limits, balance checks, and user access controls.
 
 
 ### Technology User
