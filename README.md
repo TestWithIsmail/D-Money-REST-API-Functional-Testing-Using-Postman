@@ -7,15 +7,16 @@ The system simulates a complete financial workflow, including user creation, cas
 The test suite covers **1 Admin, 1 Agent, 2 Customer, and 1 Merchant** features and validates business rules, including minimum/maximum transaction limits, balance checks, and user access controls.
 
 
-### Technology User
+### Technology Used
 - Postman
 - Newman
 - Node.js 
 - HTML Report Extra
 
 ### How to run
+- Clone this project
 - `npm i`
-- `node report.js`
+- `npm test`
 
 ### Documentation for this API: [API Documentation](https://documenter.getpostman.com/view/37686929/2sB3dPSVzK#ae67c65b-e00d-4460-83c2-18b8a9fda7d9)
 ### Test Case for this project: [Test Case](https://docs.google.com/spreadsheets/d/1MDonNl9lSEkKjH4YLS6F4xK__yD9Yzc7/edit?usp=sharing&ouid=108310249584304373278&rtpof=true&sd=true)
